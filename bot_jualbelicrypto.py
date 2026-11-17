@@ -1,7 +1,7 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
-TOKEN = "MASUKIN_TOKEN_LU_DISINI"
+TOKEN = 9038628620:AAGuim0lpJ3WiFrNqKF_ixOB-x-Oud_pTeU
 user_lang = {}
 
 def teks_menu(nama, lang="id"):
